@@ -357,9 +357,8 @@ This project is created as an assignment submission.
 
 ## 👤 Author
 
-**Ajay**
-- Email: baseraajay.email@example.com
-- GitHub: [@basera303](https://github.com/basera303)
+**Kuldeep**
+- Email: rathorekuldeepsingh2691@gmail.com
 
 
 
